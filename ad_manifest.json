@@ -7,6 +7,13 @@
         "force_override": true
     },
     {
+        "ad_text": "R2-D2 Tamagotchi\n[ CLAIM YOUR NANO DROID ]",
+        "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B097Z3VBNP.png",
+        "bg_color": "#0a0f1d",
+        "target_url": "https://www.amazon.com/dp/B097Z3VBNP/?tag=gatekeeperdroid-20",
+        "force_override": true
+    },
+    {
         "ad_text": "💺 LONG-HAUL AFK COMFORT:\n\nSit back and relax while your background automation engine grinds for hours. Maintain peak comfort in the\nHomall Leather Gaming Chair!",
         "bg_color": "#0a0f1d",
         "target_url": "https://www.amazon.com/dp/B01MRZ02TL/?tag=gatekeeperdroid-20",
@@ -27,7 +34,7 @@
         "force_override": true
     },
     {
-        "ad_text": "TRUE DROID TYCOON FLEX:\n[CLAIM YOUR DROID ]",
+        "ad_text": "TRUE DROID TYCOON FLEX:\n[ CLAIM YOUR DROID ]",
         "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B0107H5FJ6.png",
         "bg_color": "#0a0f1d",
         "target_url": "https://www.amazon.com/dp/B0107H5FJ6/?tag=gatekeeperdroid-20",
