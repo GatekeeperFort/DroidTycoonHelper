@@ -8,8 +8,7 @@
     },
     {
         "ad_text": "💺 LONG-HAUL AFK COMFORT:\nSit back and relax while your background automation engine grinds for hours. Maintain peak comfort in the Homall Leather Gaming Chair!",
-        "bg_color": "#4b0082",
-        "fg_color": "#ffffff",
+        "bg_color": "#0a0f1d",
         "target_url": "https://www.amazon.com/dp/B01MRZ02TL/?tag=gatekeeperdroid-20",
         "force_override": true
     },
@@ -35,7 +34,7 @@
         "force_override": true
     },
     {
-        "ad_text": "⚡ SUPPORT THE DEVELOPER:\nThis app is 100% free! Want a special Supporter Badge on your dashboard? Check out Buy Me a Coffee! [ View Tiers ]",
+        "ad_text": "⚡ SUPPORT THE DEVELOPER:\nThis app is 100% free! Want a special Supporter Badge on your dashboard? Check out Buy Me a Coffee!",
         "bg_color": "#000000",
         "fg_color": "#ffdd00",
         "target_url": "https://www.buymeacoffee.com/gatekeeperfort",
