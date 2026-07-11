@@ -7,18 +7,18 @@
     "force_override": true
     },
     {
-        "ad_text": "📦 AUTO-SWING HYPERDRIVE: Maximize your tycoon farming with legendary G502 HERO!",
-        "bg_color": "#0a0f1d",
-        "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B07GBZ4Q68.png",
-        "target_url": "https://www.amazon.com/dp/B07GBZ4Q68/?tag=gatekeeperfort-20",
-        "force_override": true
-    },
-    {
     "ad_text": "💺 LONG-HAUL AFK COMFORT: Sit back and relax while your background automation engine grinds for hours. Maintain peak comfort in the Homall Leather Gaming Chair!",
     "bg_color": "#4b0082",
     "fg_color": "#ffffff",
     "target_url": "https://www.amazon.com/dp/B01MRZ02TL/?tag=gatekeeperdroid-20",
     "force_override": true
+    },
+    {
+        "ad_text": "📦 AUTO-SWING HYPERDRIVE: Maximize your tycoon farming with legendary G502 HERO!",
+        "bg_color": "#0a0f1d",
+        "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B07GBZ4Q68.png",
+        "target_url": "https://www.amazon.com/dp/B07GBZ4Q68/?tag=gatekeeperfort-20",
+        "force_override": true
     },
     {
         "ad_text": "📢 LIVE CAMPAIGN 1: Join our newly launched Discord Server to hang out with other macro engineers! [ Click to Join ]",
