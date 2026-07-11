@@ -1,41 +1,41 @@
 [
     {
-    "ad_text": "🚨 LIVE SERVER ANNOUNCEMENT: Droid Tycoon Helper server sync is fully functional! Type something custom here anytime to push it to users instantly.",
+    "ad_text": "🚨 LIVE SERVER ANNOUNCEMENT:\nDroid Tycoon Helper server sync is fully functional! Type something custom here anytime to push it to users instantly.",
     "bg_color": "#4b0082",
     "fg_color": "#ffffff",
     "target_url": "https://youtube.com/@GatekeeperFort?sub_confirmation=1",
     "force_override": true
     },
     {
-    "ad_text": "💺 LONG-HAUL AFK COMFORT: Sit back and relax while your background automation engine grinds for hours. Maintain peak comfort in the Homall Leather Gaming Chair!",
+    "ad_text": "💺 LONG-HAUL AFK COMFORT:\nSit back and relax while your background automation engine grinds for hours. Maintain peak comfort in the Homall Leather Gaming Chair!",
     "bg_color": "#4b0082",
     "fg_color": "#ffffff",
     "target_url": "https://www.amazon.com/dp/B01MRZ02TL/?tag=gatekeeperdroid-20",
     "force_override": true
     },
     {
-        "ad_text": "📦 AUTO-SWING HYPERDRIVE: Maximize your tycoon farming with legendary G502 HERO!",
+        "ad_text": "📦 AUTO-SWING HYPERDRIVE:\nMaximize your tycoon farming with legendary G502 HERO!",
         "bg_color": "#0a0f1d",
         "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B07GBZ4Q68.png",
         "target_url": "https://www.amazon.com/dp/B07GBZ4Q68/?tag=gatekeeperfort-20",
         "force_override": true
     },
     {
-        "ad_text": "📢 LIVE CAMPAIGN 1: Join our newly launched Discord Server to hang out with other macro engineers! [ Click to Join ]",
+        "ad_text": "📢 LIVE CAMPAIGN 1:\nJoin our newly launched Discord Server to hang out with other macro engineers! [ Click to Join ]",
         "bg_color": "#5865F2",
         "fg_color": "#ffffff",
         "target_url": "https://discord.gg/yourlink",
         "force_override": true
     },
     {
-    "ad_text": "📦 AUTO-SWING HYPERDRIVE: Maximize your tycoon farming macros using the legendary Logitech G502 HERO Gaming Mouse with 11 hyper-responsive programmable buttons!",
+    "ad_text": "📦 AUTO-SWING HYPERDRIVE:\nMaximize your tycoon farming macros using the legendary Logitech G502 HERO Gaming Mouse with 11 hyper-responsive programmable buttons!",
     "bg_color": "#4b0082",
     "fg_color": "#ffffff",
     "target_url": "https://www.amazon.com/dp/B07GBZ4Q68/?tag=gatekeeperdroid-20",
     "force_override": true
     },
     {
-        "ad_text": "⚡ LIVE CAMPAIGN 2: Want premium access features? Check out our official Support tiers on Buy Me a Coffee! [ View Tiers ]",
+        "ad_text": "⚡ LIVE CAMPAIGN 2:\nWant premium access features? Check out our official Support tiers on Buy Me a Coffee! [ View Tiers ]",
         "bg_color": "#000000",
         "fg_color": "#ffdd00",
         "target_url": "https://www.buymeacoffee.com/gatekeeperfort",
