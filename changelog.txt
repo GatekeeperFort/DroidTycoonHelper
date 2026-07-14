@@ -1,0 +1,116 @@
+=====================================================================
+DATE: 2026-07-14 | VERSION: v0.5.5-beta
+=====================================================================
+* Added native high-DPI awareness and dynamic window clamping to ensure the UI fits perfectly and renders sharply on all display scaling settings.
+=====================================================================
+DATE: 2026-07-14 | VERSION: v0.5.4-beta
+=====================================================================
+* Minor bug fixes
+=====================================================================
+DATE: 2026-07-13 | VERSION: v0.5.3-beta
+=====================================================================
+* Fixed a remote update error
+=====================================================================
+DATE: 2026-07-13 | VERSION: v0.5.2-beta
+=====================================================================
+* Manual Repository Parity Passes: Transformed the up-to-date status label into an interactive interface component, enabling users to manually query the remote update repository at any time to verify build version parity.
+=====================================================================
+DATE: 2026-07-13 | VERSION: v0.5.1-beta
+=====================================================================
+* On-Demand Revision Prompts: Linked manual status checks directly with the underlying version manager; discovering a newer framework release during an on-demand validation pass immediately triggers the progress bar modal and upgrade prompt.
+=====================================================================
+DATE: 2026-07-13 | VERSION: v0.5.0-beta
+=====================================================================
+* Fuzzy Mission Completion Alerts: Introduced an advanced loose-matching pattern scanner to actively track companion session alerts. The subtitle layer filters player chat noise to sound a dedicated neural voice notification when operations resolve successfully.
+* Galactic Tier Integration: Expanded the primary tracking framework and data indexing tables to natively support the upcoming "Galactic" tracking rarity. Pre-programmed defensive OCR maps ("6alactic", "ga1act", "galat") ensure perfect capture fidelity ahead of launch.
+* In-Place Application Updates: Overhauled the distribution pipeline to execute seamless, wizard-free application upgrades. Updates now download on a localized visual progress bar modal, utilizing a safe background shell process to replace file assets and automatically relaunch.
+* Widescreen Viewport Calibration: Upgraded tracking routines to dynamically map the exact midpoint pixel coordinates of the game viewport. This approach automatically adapts to any monitor resolution or display scaling ratio to optimize scanning overlay positioning.
+* Dashboard Interface Reordering: Rearranged the main column to place Blueprint Detection Rules at the absolute top, followed by Guaranteed Blueprint Drop Alerts, Audible Notifications, and credential parameters positioned at the bottom of the interface layout.
+
+=====================================================================
+DATE: 2026-07-12 | VERSION: v0.4.0-beta
+=====================================================================
+* Universal Profile Shortcuts: Enhanced the universal hotkey interface mapping to cleanly toggle custom session configuration rules.
+
+=====================================================================
+DATE: 2026-07-12 | VERSION: v0.3.0-beta
+=====================================================================
+* Detection Tweaks: Rolled out micro-adjustments across the screen segmentation lines to increase text processing stability.
+
+=====================================================================
+DATE: 2026-07-12 | VERSION: v0.2.2-beta
+=====================================================================
+* Engine Interruption Gateways: Placed strict validation checks inside the core tracking routines. The line scanner engine can now be put on standby instantly mid-cycle when hitting the user-bound hotkey, preventing runtime execution lag.
+* Split-Frame Text Resolution: Fixed a severe tracking vulnerability where a rare droid's name and its rarity tier occasionally split across separate frame calculations. Added an advanced lexical replacement gate to map heavy text-mangling anomalies (like "O\ÄMOND") back to "Diamond" instantly so items are never skipped.
+* Session Disconnect Gateway: The live line scanner proactively targets connectivity error fragments to safely execute an immediate thread-safe companion layout recovery mode.
+* Early Alert Timer Padding: Refactored the master clock chronometer countdown calculations to pad all scheduled blueprint alerts by exactly 5 seconds, broadcasting warnings early to give you an active head start.
+* Priority Queue Mismatch Patch: Fixed a data-type collision crash inside the Speech Queue. Unified all data pipelines (Live Drops, Countdowns, and Previews) to pass strict, synchronized priority-weighted tuples. 
+* Countdown Queue Lock Remediation: Resolved a bug where only specific countdown tiers were read aloud. The priority weight array now cleanly manages concurrent Rainbow and Beskar steps simultaneously without jamming the pipeline.
+* Initial Boot Variable Stability: Hard-locked all Tkinter Boolean and Integer tracker variables inside the root initialization constructor, permanently resolving a first-launch layout configuration crash.
+* Zero Build Presentation Theme: Modernized the layout, replacing legacy text layouts with whimsical community sprint humor.
+
+=====================================================================
+DATE: 2026-07-11 | VERSION: v0.2.1-beta
+=====================================================================
+* Input Profile Optimization: Restored core window state evaluation hooks. Tracking profiles now read active UI configurations dynamically, resolving silent thread crashes on engine launch.
+* Interaction Loop Optimization: Adjusted companion layout tracking sequences to process in natural dynamic bursts instead of locking the execution thread in a single massive block.
+* Disconnect Warning System: Embedded a high-priority string scanner into the live OCR line parser. The moment disconnect or connection loss text appears on the game canvas, the utility purges the speech pipeline, sounds a critical notification phrase, and stands down safely.
+* Expanded Lexical Dictionary: Added defensive character normalization parameters to catch heavy text scrambling caused by graphic distortions (mangled arrays like "bgska", "diåmgnd", "dkoid", and rare variations like "'rang)").
+* Priority Queue Implementation: Upgraded the central text-to-speech architecture from a basic FIFO block to an advanced PriorityQueue. Live premium droid drops are now weighted at Priority 1, instantly jumping the line and interrupting routine Priority 2 countdown alerts.
+* Queue Jam Remediation: Eliminated audio playback lag by actively draining and resetting channel buffers during forced hot-reloads and previews.
+* Initialization Crash Resolved: Moved core Boolean tracking variables out of storage sub-modules and directly into the primary startup constructor, ensuring the app never crashes on a clean profile boot.
+* Universal Auto-Fill Synchronization: Refactored the splash window logic to route the free subscriber pass through the official validation engine, immediately granting dashboard supporter badges.
+* Engagement Refresh: Replaced the uninspiring YouTube link title with a much more engaging title to match the Jawa-lore aesthetic of the application layout.
+==================================================================
+DATE: 2026-07-11 | VERSION: v0.2.0-beta
+==================================================================
+* Glass Morphic Layouts: Upgraded the announcement banner display to feature a modern layout that guarantees text readability over any background game canvas graphic.
+* Dynamic Content Sync Protocol: Implemented a dynamic live-refresh network sync protocol to ensure companion utility announcements and creator updates deploy instantly upon launching the app.
+* Boundary Box Stabilization: Optimized user interface text boundaries to naturally render multiline layout strings cleanly without overlapping window elements.
+
+==================================================================
+DATE: 2026-07-10 | VERSION: v0.1.3-alpha
+==================================================================
+* Configuration Migration: Added an automated configuration migration system to preserve user settings seamlessly between version upgrades.
+* Permissions Optimization: Relocated all persistent data files into a secure AppData folder path to completely prevent file system permission errors on modern operating systems.
+* Metronome Synchronization: Patched tracking loops for the drop timer to accurately synchronize alerts starting at 55 minutes past every hour.
+* Foreground Window Handover: Implemented an automatic focus switch that seamlessly brings the game window to the foreground when launching the engine.
+* Desktop Focus Management: Added optional toggles ("Return Window on Stop" and "Return Mouse on Stop") under the main hotkey section to customize desktop tracking behavior when stopping the utility.
+* Default Profiles: Updated default configurations to automatically assign 'F' as the default primary key bind option.
+* Widescreen Clipping Fix: Adjusted main window layout dimensions to 1040x625 to permanently eliminate text element clipping.
+* Roadmap Integration: Balanced the custom blueprints module with a streamlined informational feature development roadmap.
+* Expanded Live Logger: Integrated an expandable live tracking console drawer to monitor diagnostic data streams in real time.
+
+==================================================================
+DATE: 2026-07-10 | VERSION: v0.1.2-Alpha
+==================================================================
+* Refocus Options: Added individual "Return Window" and "Return Mouse" options on engine stop phases.
+* Configuration Mapping: Updated default profile key configurations to the standard 'F' key layout.
+* Directory Relocation: Relocated internal save text files to the secure AppData directory to optimize system compatibility.
+* Multi-Monitor Loop Patch: Patched window coordinate layout shifts and multi-monitor scaling anomalies inside the core tracking loop.
+
+==================================================================
+DATE: 2026-07-09 | VERSION: v0.1.1-Alpha
+==================================================================
+* Rolling Verification Checks: Re-engineered software validation metrics into a dynamic, rolling 7-day build initialization verification check.
+* Multi-Tier Array Indexing: Built an advanced multi-tiered target indexing system to dramatically increase scanning precision across text layout boundaries.
+* Auto-Save State Mappings: Embedded standalone tracking selection check boxes within the layout panel, completely backed by auto-saving data options.
+* Failsafe Parameter Redirects: Integrated strict failsafe overrides that redirect undetermined tracking values safely into active parameters to eliminate missed drop events.
+* Interface Widescreen Split: Redesigned the main interface layout into a clean, modern 2-column widescreen view to stabilize UI component visibility on secondary monitors.
+* Atomic Clock Synchronizer: Engineered a network-synchronized clock module tracking atomic loops to alert players of impending guaranteed Rainbow, Beskar, and Mythic drops.
+* Notification Lead Calibration: Expanded UI with a drop notification panel, adding specific category filters, custom lead times, and saved configuration profiles.
+* Cloud Audio Expansions: Expanded the auditory engine with 5 additional premium cloud audio notification choices utilizing immersive sci-fi concepts.
+* Simplified Profiles: Simplified utility profile naming structures into clear, human-readable choices ("Live Play").
+* Asynchronous Polling Routines: Overhauled audio notification playback into an asynchronous polling routine, enabling instant announcement cancellations and immediate volume adjustments mid-sentence.
+* Stale Alert Flushing: Upgraded voice notification checks to flush stale sound alerts instantly when a new action is requested.
+* Realistic TTS Integration: Integrated high-fidelity cloud text-to-speech audio pipelines, providing realistic voice announcement updates.
+* Slider Attenuation Controls: Modernized audio mixer logic to natively process sound files alongside fully functional volume slider attenuation controls.
+* Absolute Path Mapping: Implemented absolute path directory mapping across sound layers, omitting folder path syntax errors.
+* Split Audio Channels: Re-coupled independent audio output tracks to grant separate volume slider control over individual cloud voice adjustments.
+* Parameter Tracking Snap: Adjusted slider bars to snap to target audio values directly upon positional selection tracks, avoiding unexpected jumps.
+* Restricted OS Failsafes: Refactored alerts to utilize localized execution contexts, preventing media player initialization failures on restricted operating systems.
+* Dropdown Selection Optimization: Upgraded category selection filters to instantly highlight the first relevant child item when expanding dropdown lists.
+* Frozen Environment Stability: Resolved directory scanning logic bugs to guarantee stable file discovery in both raw source code environments and compiled execution builds.
+* Isolated Testing Pipelines: Separated cloud voice configuration tests from standard real-time drop alerts to keep main text audio channels clean.
+* Tree-Style Menus: Organized the Audio Effects dropdown menu into clearly categorized, expandable tree-style sections.
+* Banner Alignment Fix: Fixed an initialization state tracking error that occasionally caused the primary app alert banner to load out of alignment.
