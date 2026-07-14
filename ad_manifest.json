@@ -7,7 +7,7 @@
         "force_override": true
     },
     {
-        "ad_text": "R2-D2 Tamagotchi\n[ CLAIM YOUR NANO DROID ]",
+        "ad_text": "R2-D2 Tamagotchi\nCLAIM YOUR NANO DROID",
         "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B097Z3VBNP.png",
         "bg_color": "#0a0f1d",
         "target_url": "https://www.amazon.com/dp/B097Z3VBNP/?tag=gatekeeperdroid-20",
@@ -34,7 +34,7 @@
         "force_override": true
     },
     {
-        "ad_text": "TRUE DROID TYCOON FLEX\n[ CLAIM YOUR DROID ]",
+        "ad_text": "TRUE DROID TYCOON FLEX\nCLAIM YOUR DROID",
         "image_url": "https://raw.githubusercontent.com/GatekeeperFort/DroidTycoonHelper/main/B0107H5FJ6.png",
         "bg_color": "#0a0f1d",
         "target_url": "https://www.amazon.com/dp/B0107H5FJ6/?tag=gatekeeperdroid-20",
