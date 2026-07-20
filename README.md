@@ -1,5 +1,6 @@
 # 🤖 Droid Tycoon Helper
 **Never miss a rare drop again!** An intelligent, real-time HUD overlay and alert system designed to help you complete your Droidex collection effortlessly.
+
 [![Download Latest Release](https://img.shields.io/github/v/release/GatekeeperFort/DroidTycoonHelper?label=Download%20Latest%20Version&style=for-the-badge&color=brightgreen)](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
 
 ### 📥 [Click Here to Download Latest Windows Installer](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
