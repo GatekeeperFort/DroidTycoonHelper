@@ -4,7 +4,7 @@
 [![Download Latest Release](https://img.shields.io/github/v/release/GatekeeperFort/DroidTycoonHelper?label=Download%20Latest%20Version&style=for-the-badge&color=brightgreen)](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
 
 ### 📥 [Click Here to Download Latest Windows Installer](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
-
+**All releases:** https://github.com/GatekeeperFort/DroidTycoonHelper/releases 
 ---
 
 ## 🌟 Key Features
