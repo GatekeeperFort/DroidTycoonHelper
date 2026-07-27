@@ -1,4 +1,40 @@
 =====================================================================
+DATE: 2026-07-27 | VERSION: v0.7.0-beta
+=====================================================================
+• Added Discord webhook alert notifications.
+• Added a Discord Test button and a step-by-step setup Guide window.
+• Moved Discord webhook alerts to background threads so network delays never freeze screen scanning.
+• Added a checkmark to instantly enable or disable Discord alerts without clearing the webhook URL.
+• Added anchor word filters so static Droidex UI menus no longer trigger false spawn alerts.
+• Throttled Family OCR scans to once every 1.5 seconds to eliminate duplicate notification spam.
+• Enforced strict standalone matching for 2-letter acronyms (IG, BB, LO, CB) to fix false Gold IG and BB misreads.
+• Combined droid names and metal variants into single-pass multi-line scans to prevent premature default classification.
+• Locked custom alert deduplication to droid model names with a 2.5-second cooldown after hits.
+• Added custom speech pronunciations for Lng-Shot, Mono-Wlkr, Mo-Trak, Opti-Strk, Sen-Tri, and DRK-1 Probe.
+• Added comprehensive OCR misread alias fixes for Imperial-Probe, Proto-Roller, Util-Tec, Roll-R, Groundmech, BDX-Explorer, and others.
+• Made the main application window resizable with a bottom-right corner grip handle.
+• Programmed overlays and live OCR previews to automatically hide whenever their main detection checkbox is unchecked.
+=====================================================================
+DATE: 2026-07-24 | VERSION: v0.6.9-beta
+=====================================================================
+• Auto updater improvements
+=====================================================================
+DATE: 2026-07-23 | VERSION: v0.6.8-beta
+=====================================================================
+• OCR improvements
+=====================================================================
+DATE: 2026-07-23 | VERSION: v0.6.7-beta
+=====================================================================
+• Bug fixes
+=====================================================================
+DATE: 2026-07-22 | VERSION: v0.6.6-beta
+=====================================================================
+• Enhanced Rebirth Droid Detection: Upgraded detection to use resolution-independent shape and proportion analysis for better accuracy across all screen sizes.
+• Eliminated False Alerts: Added smart UI filters to suppress false triggers caused by Droidex stations, HUD text, and yellow background elements.
+• Fixed Rebirth Live OCR Preview: Fixed an issue where the Rebirth OCR preview overlay window was not rendering reliably.
+• Streamlined Interface Layout: Reduced the size of the Start/Stop section and enlarged the Rebirth reset button for easier navigation.
+• Cleaner Diagnostic Terminal: Optimized diagnostic logging so detection telemetry outputs when a verified alert triggers.
+=====================================================================
 DATE: 2026-07-20 | VERSION: v0.6.5-beta
 =====================================================================
 • Bug fixes
