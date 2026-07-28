@@ -1,5 +1,5 @@
 =====================================================================
-DATE: 2026-07-28 | VERSION: v0.7.0-beta
+DATE: 2026-07-28 | VERSION: v0.7.1-beta
 =====================================================================
 • Added clock face customizations
 • Redesigned the cutsom blueprint list selection interface
