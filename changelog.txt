@@ -1,4 +1,11 @@
 =====================================================================
+DATE: 2026-07-28 | VERSION: v0.7.2-beta
+=====================================================================
+• New Achievement Alerts: Added threshold tracking for Credits, Chips, Nova Crystals, and Rebirth Ready, complete with audio alarms and Discord webhook notifications.
+• Real-Time Milestone Tracking: Built a live numeric parser that reads HUD multipliers (K, M, T, Q) and automatically triggers alerts the moment you reach your target amounts.
+• Streamlined UI Layout: Reorganized the Blueprint Detection Rules section into a more compact footprint to make room for the new Achievement Alerts panel.
+• Expanded Tooltip Coverage: Added helpful hover tooltips for the HUD Clock, countdown overlays, achievement settings, and filter options.
+=====================================================================
 DATE: 2026-07-28 | VERSION: v0.7.1-beta
 =====================================================================
 • Added clock face customizations
