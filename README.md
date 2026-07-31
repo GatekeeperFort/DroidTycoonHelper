@@ -5,6 +5,11 @@
 
 ### 📥 [Click Here to Download Latest Windows Installer](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
 
+<!-- 🌟 MAIN HERO SCREENSHOT HERE -->
+p<p align="center">
+  <img src="assets/droid-tycoon-helper-screenshot-1.webp" alt="Droid Tycoon Helper Dashboard" width="800">
+</p>
+
 ---
 
 ## 🌟 Key Features
@@ -18,22 +23,13 @@
 * **🚀 Instant One-Click Updates:** Built-in auto-updater keeps your app running on the latest build automatically without needing manual re-downloads.
 
 ---
-## 📥 Installation
 
-1. **[Click Here to Download `DroidTycoonHelper_Setup.exe`](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)**
-2. Run the installer and follow the quick setup wizard.
-3. Launch **Droid Tycoon Helper** directly from your desktop or Start menu!
----
-
-## 🛡️ Windows Security Warning? (Don't Worry!)
-
-When launching the installer or app for the first time, Windows SmartScreen may show a blue pop-up saying **"Windows protected your PC — Unknown Publisher"**. 
-
-### **Why does this happen?**
-This is completely normal! Droid Tycoon Helper is an independent, freeware tool. Microsoft charges developers thousands of dollars a year for an official code-signing certificate, which we skip to keep this software **100% free for everyone**.
-
-### **How to bypass it in 2 clicks:**
-1. Click **"More info"** under the text on the blue popup window.
-2. Click the **"Run anyway"** button that appears at the bottom.
-
-*Your antivirus / Windows Defender is simply letting you know it's a community-made program. The software is completely safe and clean!*
+## 📸 Preview
+| Live In-Game HUD Overlay |
+<img src="assets/droid-tycoon-helper-screenshot-2.webp" width="400">
+| Custom Blueprint Monitoring List |
+| :---: | :---: |
+<img src="assets/droid-tycoon-helper-screenshot-3.webp" width="400">
+| Discord Alerts |
+| :---: | :---: |
+<img src="assets/droid-tycoon-helper-screenshot-4.webp" width="400">
