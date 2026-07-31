@@ -26,11 +26,10 @@ p<p align="center">
 
 ## 📸 Preview
 <br>
-| Live In-Game HUD Overlay |<br>
-<img src="assets/droid-tycoon-helper-screenshot-2.webp" width="400"><br>
+| Live In-Game HUD Overlay |<br><br>
+<img src="assets/droid-tycoon-helper-screenshot-2.webp" width="400"><br><br>
 | Custom Blueprint Monitoring List |<br>
-| :---: | :---: |<br>
-<img src="assets/droid-tycoon-helper-screenshot-3.webp" width="400"><br>
-| Discord Alerts |<br>
-| :---: | :---: |<br>
+<br><br>
+<img src="assets/droid-tycoon-helper-screenshot-3.webp" width="400"><br><br>
+| Discord Alerts |<br><br>
 <img src="assets/droid-tycoon-helper-screenshot-4.webp" width="400"><br>
