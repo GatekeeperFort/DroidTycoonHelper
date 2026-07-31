@@ -6,7 +6,7 @@
 ### 📥 [Click Here to Download Latest Windows Installer](https://github.com/GatekeeperFort/DroidTycoonHelper/releases/latest/download/DroidTycoonHelper_Setup.exe)
 
 <!-- 🌟 MAIN HERO SCREENSHOT HERE -->
-p<p align="center">
+<p align="center">
   <img src="assets/droid-tycoon-helper-screenshot-1.webp" alt="Droid Tycoon Helper Dashboard" width="800">
 </p>
 
