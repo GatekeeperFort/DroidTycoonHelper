@@ -1,4 +1,28 @@
 =====================================================================
+DATE: 2026-08-05 | VERSION: v0.7.6-beta
+=====================================================================
+• Rebirth Droid Detection bug fixes to eliminate most false positives
+=====================================================================
+DATE: 2026-08-05 | VERSION: v0.7.5-beta
+=====================================================================
+• Rebirth Droid Detection Overhaul: Enhanced popup recognition with dual-anchor symbol scanning, refined name/metal alert formatting, and updated tooltips.
+• Dual-Criteria Filter Engine: Replaced the single-tier "and above" rule with two independent dual-criteria rule rows (Criteria 1 & 2), complete with individual enable/disable checkboxes.
+• Decoupled Mission Tracking: Separated Astromech Mission Completion scanning from the Sandcrawler Variant & Rarity filter so mission alerts run independently whenever toggled.
+• Enhanced Droid Complete Detection: Upgraded OCR matching with flexible regex to catch heavily scrambled font misreads and fixed missing Discord notifications.
+• Direct Discord Alert Routing: Streamlined notification dispatching so every alert category maps 1-to-1 directly to its dedicated UI checkbox without cross-category fallback skips.
+• Persistence & Config Stability: Resolved startup configuration loading crashes, restoring reliable auto-saving for keybinds, clock themes, achievement alerts, overlay states, and multi-monitor custom zones.
+• UI Layout & Tooltip Refinements: Added a vertical separator between filter sections, compacted dropdown menus, and added an opacity slider tooltip with auto-saving transparency.
+=====================================================================
+DATE: 2026-08-04 | VERSION: v0.7.4-beta
+=====================================================================
+• Detection improvements for custom blueprint detection
+=====================================================================
+DATE: 2026-08-03 | VERSION: v0.7.3-beta
+=====================================================================
+• Detection improvements
+• Enhanced Credits OCR Precision: Implemented image binarization and tuned scaling algorithms to eliminate drop-shadow artifacts and prevent misread decimal values.
+• Dual-Mask Color Preprocessing: Introduced simultaneous white and neon-green RGB color masking to reliably capture Credits, Chips, Crystals, and Rebirth Level without dropping colored HUD text.
+=====================================================================
 DATE: 2026-07-28 | VERSION: v0.7.2-beta
 =====================================================================
 • New Achievement Alerts: Added threshold tracking for Credits, Chips, Nova Crystals, and Rebirth Ready, complete with audio alarms and Discord webhook notifications.
