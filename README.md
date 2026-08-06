@@ -7,7 +7,7 @@
 
 <!-- 🌟 MAIN HERO SCREENSHOT HERE -->
 <p align="center">
-  <img src="assets/droid-tycoon-helper-screenshot-1.webp" alt="Droid Tycoon Helper Dashboard" width="800">
+  <img src="assets/droid_tycoon_helper_screenshot.png" alt="Droid Tycoon Helper Dashboard" width="800">
 </p>
 
 ---
