@@ -1,4 +1,14 @@
 =====================================================================
+DATE: 2026-08-06 | VERSION: v0.7.7-beta
+=====================================================================
+• Suppressed additional resource messages when Resource Stream checkbox is unchecked
+• Implemented multi-frame burst sampling and median outlier filtering to eliminate false OCR spikes and misread resource drops
+• Added smart decimal recovery and numeric input validation to Achievement Alert threshold fields
+• Added new Workbench "Droid Complete" scanner with keyword matching and false-positive filtering
+• Refined Rebirth Droid scanner with multi-point feature convergence (Jawa eye clustering, hood locality, and card validation)
+• Added live OCR diagnostic preview windows for Family, Custom, and Rebirth scanning zones
+• Streamlined diagnostic stream logs to reduce terminal clutter during active monitoring
+=====================================================================
 DATE: 2026-08-05 | VERSION: v0.7.6-beta
 =====================================================================
 • Rebirth Droid Detection bug fixes to eliminate most false positives
