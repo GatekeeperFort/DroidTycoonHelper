@@ -1,7 +1,7 @@
 =====================================================================
 DATE: 2026-08-17 | VERSION: v0.8.1-beta
 =====================================================================
-• Added Stellar droid variant to detection algorythms
+• Added Stellar droid variant to detection algorithms
 • Added Stellar countdown overlay
 • Removed Beskar countdown overlay 
 =====================================================================
