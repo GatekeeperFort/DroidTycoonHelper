@@ -1,4 +1,14 @@
 =====================================================================
+DATE: 2026-08-18 | VERSION: v0.8.2-beta
+=====================================================================
+• Added Chip Station Timer (Ctrl+F12) with custom HUD overlay, Discord alerts, and hourly overtime reminders
+• Added Quadrillion (Qa) unit support for Credits tracking and Achievement Alerts
+• Updated voice alerts to speak full unit names (Thousand, Million, Billion, Trillion, Quadrillion)
+• Fixed Credits OCR misread issues when reaching Quadrillion values
+• Fixed "+All" button in Custom Blueprints window so Stellar variants are properly added
+• Improved Stellar droid variant OCR detection and color recognition
+• Fixed update check logic to prevent duplicate update windows from popping up in the same session
+=====================================================================
 DATE: 2026-08-17 | VERSION: v0.8.1-beta
 =====================================================================
 • Added Stellar droid variant to detection algorithms
