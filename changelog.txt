@@ -1,4 +1,13 @@
 =====================================================================
+DATE: 2026-08-22 | VERSION: v0.8.3-beta
+=====================================================================
+• Upgraded Sandcrawler detection engine with "or better" hierarchical matching for Variants and Rarities
+• Added "Unknown" failsafe handling to announce valid spawns even when specific Variant or Rarity OCR reads are partially garbled
+• Expanded OCR misspelling dictionary mappings for various Galactic, and Epic droids
+• Improved image preprocessing and contrast tuning to fix OCR misreads on dark Epic and Galactic text
+• Offset OCR overlay labels outside the scanning box to prevent text pollution inside capture zones
+• Various other bug fixes
+=====================================================================
 DATE: 2026-08-18 | VERSION: v0.8.2-beta
 =====================================================================
 • Added Chip Station Timer (Ctrl+F12) with custom HUD overlay, Discord alerts, and hourly overtime reminders
